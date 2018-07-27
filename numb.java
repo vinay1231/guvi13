@@ -7,7 +7,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		 int count=0, numb=548;
+		 int count=0, numb=5485451;
 
         while(numb!= 0)
         {
